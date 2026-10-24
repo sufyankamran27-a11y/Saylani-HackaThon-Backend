@@ -1,0 +1,9 @@
+{
+  "name": "hackathon-root",
+  "version": "1.0.0",
+  "description": "Hackathon Starter Project",
+  "scripts": {
+    "start": "npm start --prefix backend",
+    "dev": "npm run dev --prefix backend"
+  }
+}
